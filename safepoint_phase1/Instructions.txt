@@ -1,0 +1,7 @@
+------How to install----------
+1. extract the ["safe_file beta test by bernie"] zip file
+2. Inside the folder run the ["SafeFile-Setup-0.2.2"] set up exe
+
+
+(And you're done, Also please have time to read the read.me 
+for better instructions and manual guide on how to use it.)

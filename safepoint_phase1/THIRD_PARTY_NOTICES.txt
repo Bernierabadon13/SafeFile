@@ -1,0 +1,17 @@
+SafeFile includes or uses the following third-party software. This is a summary, not legal advice.
+
+Qt for Python (PySide6) and Qt
+  Used under the GNU Lesser General Public License v3 (LGPLv3). The Qt libraries are shipped as separate
+  files next to SafeFile.exe and can be replaced. Source code and license texts: https://www.qt.io/ and
+  https://pypi.org/project/PySide6/
+
+Python
+  Used under the Python Software Foundation License. https://docs.python.org/3/license.html
+
+PyInstaller (build tool)
+  GPL v2 with a special exception that allows bundling applications under any license. https://pyinstaller.org/
+
+Inno Setup (installer tool)
+  Free to use, including for distributing your own installer. https://jrsoftware.org/
+
+The Segoe UI font is not included. SafeFile uses the copy that comes with Windows.
